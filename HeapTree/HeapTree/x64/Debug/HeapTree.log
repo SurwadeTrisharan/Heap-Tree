@@ -1,0 +1,3 @@
+﻿  HeapTree.cpp
+C:\Users\TRISHARAN\Desktop\C++ prgs\HeapTree\HeapTree\HeapTree.cpp(7,9): warning C4101: 'temp': unreferenced local variable
+  HeapTree.vcxproj -> C:\Users\TRISHARAN\Desktop\C++ prgs\HeapTree\x64\Debug\HeapTree.exe
